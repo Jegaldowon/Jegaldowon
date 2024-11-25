@@ -14,6 +14,10 @@
 
 게임 개발자가 하고 싶어요
 
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
+
 
 <br />
 <br />
