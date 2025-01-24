@@ -1,10 +1,9 @@
 
 
-
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/Jegaldowon"
-  width="1000"
+  width="800"
   height="400"
 />
 </a>
