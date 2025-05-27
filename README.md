@@ -1,5 +1,4 @@
 
-![코딩해야지](https://github.com/user-attachments/assets/f628b35a-9212-4720-bee4-7bf8a716a5b0)
 
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
