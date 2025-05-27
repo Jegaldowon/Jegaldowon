@@ -1,17 +1,5 @@
 
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/Jegaldowon"
-  width="800"
-  height="400"
-/>
-</a>
-  
-
-
-
-게임 개발자가 하고 싶어요
+![코딩해야지](https://github.com/user-attachments/assets/f628b35a-9212-4720-bee4-7bf8a716a5b0)
 
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
