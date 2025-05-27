@@ -1,4 +1,5 @@
 
+![Uploading Coding_haeya_ji.JPG…]()
 
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
